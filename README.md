@@ -1,4 +1,4 @@
-# Diagramma del prodotto.
+# Diagramma del prodotto
 1. Pulsante di Volume -
 2. Pulsante di Volume +
 3. Microfono
